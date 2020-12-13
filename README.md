@@ -1,4 +1,4 @@
-# NimExampleImplementation
+# Nim Example Implementation
 Nim Implementation For Math 3134 Project
 
 This Implementation is pulled from https://www.geeksforgeeks.org/combinatorial-game-theory-set-2-game-nim/.

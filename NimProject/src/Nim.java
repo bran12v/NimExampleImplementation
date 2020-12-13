@@ -3,7 +3,8 @@ import java.util.Random;
 /**
  * A Java program to implement Game of Nim. The program
  * assumes that both players are playing optimally
- * Java equivalent of the GeeksforGeeks Nim solver code found at:
+ * 
+ * This is the Java equivalent of the GeeksforGeeks Nim solver code found at:
  *   https://www.geeksforgeeks.org/combinatorial-game-theory-set-2-game-nim/
  *   
  * @author Brandon Vanek 
